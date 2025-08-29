@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project-1.0";
 const contentToCache = [
-    "Build/lastgolf.loader.js",
-    "Build/lastgolf.framework.js.unityweb",
-    "Build/lastgolf.data.unityweb",
-    "Build/lastgolf.wasm.unityweb",
+    "Build/RGPRGKOEH.loader.js",
+    "Build/RGPRGKOEH.framework.js.unityweb",
+    "Build/RGPRGKOEH.data.unityweb",
+    "Build/RGPRGKOEH.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
